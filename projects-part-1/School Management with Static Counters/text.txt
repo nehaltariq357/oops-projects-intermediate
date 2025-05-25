@@ -1,0 +1,7 @@
+5. School Management with Static Counters
+Concepts Used: Static Method, Class Attribute
+
+🔹 Track how many students are registered
+🔹 Use a class variable student_count
+🔹 Increment it every time a new Student is created
+
