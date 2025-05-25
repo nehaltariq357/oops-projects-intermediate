@@ -1,0 +1,7 @@
+2. Bank Account Management System
+Concepts Used: Class Attributes, Instance Attributes, Encapsulation, Methods
+
+🔹 Class: BankAccount
+🔹 Attributes: account_number, balance
+🔹 Methods: deposit(), withdraw(), check_balance()
+🔹 Use encapsulation for balance (private variable: __balance)

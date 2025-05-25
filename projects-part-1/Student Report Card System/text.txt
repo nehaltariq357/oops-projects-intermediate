@@ -1,0 +1,7 @@
+1. Student Report Card System
+Concepts Used: Class & Objects, Constructors, Instance Attributes, Methods
+
+🔹 Create a Student class
+🔹 Store name, roll number, marks of 3 subjects
+🔹 Add method to calculate average and grade
+🔹 Show report using a method like show_report()
