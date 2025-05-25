@@ -1,0 +1,7 @@
+4. Library Management System
+Concepts Used: Constructors, Class Attributes, Abstraction (basic), Methods
+
+🔹 Class: Book, Library
+🔹 Track books added to library
+🔹 Methods to add book, remove book, list available books
+🔹 Abstract method in a parent class LibraryBase (optional advanced)

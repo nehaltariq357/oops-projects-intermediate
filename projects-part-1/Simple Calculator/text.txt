@@ -1,0 +1,6 @@
+3. Simple Calculator
+Concepts Used: Static Methods
+
+🔹 Class: Calculator
+🔹 Static methods: add(a, b), subtract(a, b), multiply(a, b), divide(a, b)
+🔹 No need to create object – directly call using class name
